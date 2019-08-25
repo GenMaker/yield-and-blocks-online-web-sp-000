@@ -7,5 +7,6 @@ if block_given?
   end
   array
 end
+end
 
 # call your method here!
